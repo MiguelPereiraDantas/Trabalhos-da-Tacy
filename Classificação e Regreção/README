@@ -1,0 +1,34 @@
+# Algoritmo de Regressão em Python
+
+Este é um exemplo de algoritmo de regressão em Python usando a biblioteca scikit-learn. O algoritmo implementado neste projeto é a Regressão Linear, um método comum para modelagem de relacionamentos lineares entre variáveis.
+
+## Requisitos
+
+- Python 3.x
+- Biblioteca scikit-learn
+- Biblioteca matplotlib (opcional, para visualização)
+
+Certifique-se de ter as bibliotecas necessárias instaladas antes de executar o código. Você pode instalá-las usando o seguinte comando:
+
+```bash
+pip install scikit-learn matplotlib
+```
+# Como Usar
+### Clone o repositório:
+
+```bash
+git clone https://github.com/MiguelPereiraDantas/algoritmo-Regressao-python.git
+cd algoritmo-regressao-python
+```
+### Execute o script Python:
+```bash
+python algoritmo_regressao.py
+```
+O script gera dados de exemplo para uma tarefa de regressão linear simples, treina um modelo de Regressão Linear e visualiza os resultados.
+# Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull para melhorar o código.
+
+# Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
